@@ -14,7 +14,7 @@ TIME_ZONES = [
     "Asia/Dubai",
     "Asia/Kolkata",
 ]
-e
+
 st.title("Time Zone App")
 
 selected_timezone = st.multiselect(
